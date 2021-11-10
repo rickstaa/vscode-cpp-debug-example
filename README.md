@@ -28,3 +28,7 @@ catkin config --cmake-args -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE
 
 For more information see [the extension documentation](https://github.com/betwo/vscode-catkin-tools).
 [here](https://github.com/microsoft/vscode-cpptools/issues/5415) and [here](https://code.visualstudio.com/docs/cpp/config-linux).
+
+## ROS packages
+
+If you also want to debug ROS packages you can install the [vscode-ros](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros).
