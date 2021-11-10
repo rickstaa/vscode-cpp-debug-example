@@ -1,8 +1,7 @@
 # Vscode C++ debug example
 
 Simple repository that contains the setup needed to debug a C++ file with both the [GDB](https://www.gnu.org/software/gdb/)
-and [LLDB](https://lldb.llvm.org/) debuggers. More information can be found
-[here](https://github.com/microsoft/vscode-cpptools/issues/5415).
+and [LLDB](https://lldb.llvm.org/) debuggers. More information can be found [here](https://github.com/microsoft/vscode-cpptools/issues/5415).
 
 ## Clang-tidy
 
@@ -28,3 +27,4 @@ catkin config --cmake-args -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE
 ```
 
 For more information see [the extension documentation](https://github.com/betwo/vscode-catkin-tools).
+[here](https://github.com/microsoft/vscode-cpptools/issues/5415) and [here](https://code.visualstudio.com/docs/cpp/config-linux).
